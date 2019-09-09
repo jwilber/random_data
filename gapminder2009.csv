@@ -26,7 +26,6 @@ year,country,region,income,population,lifeExpectancy
 2009,Mali,Sub-Saharan Africa,1136.17,,48.84
 2009,Mauritania,Sub-Saharan Africa,1775.87,,56.99
 2009,Mauritius,Sub-Saharan Africa,11411.53,,72.1
-2009,Mayotte,Sub-Saharan Africa,,,75.99
 2009,Mozambique,Sub-Saharan Africa,888.65,,48.13
 2009,Namibia,Sub-Saharan Africa,4952.26,,61.72
 2009,Niger,Sub-Saharan Africa,643.39,,51.95
@@ -48,7 +47,6 @@ year,country,region,income,population,lifeExpectancy
 2009,Afghanistan,South Asia,1216.68,,44.3
 2009,Bangladesh,South Asia,1492,,66.56
 2009,Bhutan,South Asia,5053.83,,66.42
-2009,India,South Asia,2731,,64.01
 2009,Maldives,South Asia,5081.79,,71.94
 2009,Nepal,South Asia,1224.73,,67.12
 2009,Pakistan,South Asia,2603,,66.84
@@ -71,7 +69,6 @@ year,country,region,income,population,lifeExpectancy
 2009,West Bank and Gaza,Middle East & North Africa,,,73.74
 2009,"Yemen, Rep.",Middle East & North Africa,2313.16,,63.39
 2009,Argentina,America,13498.04,,75.52
-2009,Aruba,America,,,74.92
 2009,Barbados,America,15846.77,,77.51
 2009,Belize,America,6998.08,,76.6
 2009,Bolivia,America,4007.16,,66.01

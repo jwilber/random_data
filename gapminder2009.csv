@@ -1,0 +1,181 @@
+year,country,region,income,population,lifeExpectancy
+2009,Angola,Sub-Saharan Africa,5055.59,,47.58
+2009,Benin,Sub-Saharan Africa,1457.57,,61.89
+2009,Botswana,Sub-Saharan Africa,12282.28,,55.12
+2009,Burkina Faso,Sub-Saharan Africa,1234.42,,53.38
+2009,Burundi,Sub-Saharan Africa,457.07,,50.95
+2009,Cameroon,Sub-Saharan Africa,1997.18,,51.39
+2009,Cape Verde,Sub-Saharan Africa,3456.14,,71.68
+2009,Chad,Sub-Saharan Africa,1557.83,,48.97
+2009,Comoros,Sub-Saharan Africa,1016.42,,65.77
+2009,"Congo, Dem. Rep.",Sub-Saharan Africa,358.8,,47.81
+2009,"Congo, Rep.",Sub-Saharan Africa,3834.67,,53.75
+2009,Cote d'Ivoire,Sub-Saharan Africa,1520.23,,57.86
+2009,Equatorial Guinea,Sub-Saharan Africa,15342.2,,50.64
+2009,Eritrea,Sub-Saharan Africa,548.37,,60.03
+2009,Ethiopia,Sub-Saharan Africa,812.16,,55.69
+2009,Gabon,Sub-Saharan Africa,12704.99,,60.89
+2009,Ghana,Sub-Saharan Africa,1382.95,,56.83
+2009,Guinea,Sub-Saharan Africa,908.86,,58.35
+2009,Guinea-Bissau,Sub-Saharan Africa,568.94,,48.2
+2009,Kenya,Sub-Saharan Africa,1493.53,,54.95
+2009,Lesotho,Sub-Saharan Africa,1521.4,,45.56
+2009,Liberia,Sub-Saharan Africa,474.9,,58.71
+2009,Madagascar,Sub-Saharan Africa,1006.9,,60.81
+2009,Malawi,Sub-Saharan Africa,866.35,,53.88
+2009,Mali,Sub-Saharan Africa,1136.17,,48.84
+2009,Mauritania,Sub-Saharan Africa,1775.87,,56.99
+2009,Mauritius,Sub-Saharan Africa,11411.53,,72.1
+2009,Mayotte,Sub-Saharan Africa,,,75.99
+2009,Mozambique,Sub-Saharan Africa,888.65,,48.13
+2009,Namibia,Sub-Saharan Africa,4952.26,,61.72
+2009,Niger,Sub-Saharan Africa,643.39,,51.95
+2009,Nigeria,Sub-Saharan Africa,2158.98,,48.17
+2009,Reunion,Sub-Saharan Africa,,,76.64
+2009,Rwanda,Sub-Saharan Africa,995.27,,50.69
+2009,Sao Tome and Principe,Sub-Saharan Africa,1703.43,,65.86
+2009,Senegal,Sub-Saharan Africa,1700.05,,55.91
+2009,Sierra Leone,Sub-Saharan Africa,893.6,,47.95
+2009,Somalia,Sub-Saharan Africa,,,50.09
+2009,South Africa,Sub-Saharan Africa,9141.27,,51.72
+2009,Sudan,Sub-Saharan Africa,2778.61,,58.5
+2009,Swaziland,Sub-Saharan Africa,4728.18,,46.36
+2009,Tanzania,Sub-Saharan Africa,1220.25,,56.35
+2009,Togo,Sub-Saharan Africa,888.01,,62.93
+2009,Uganda,Sub-Saharan Africa,1202.53,,53.47
+2009,Zambia,Sub-Saharan Africa,1442.06,,46.4
+2009,Zimbabwe,Sub-Saharan Africa,443.74,,45.72
+2009,Afghanistan,South Asia,1216.68,,44.3
+2009,Bangladesh,South Asia,1492,,66.56
+2009,Bhutan,South Asia,5053.83,,66.42
+2009,India,South Asia,2731,,64.01
+2009,Maldives,South Asia,5081.79,,71.94
+2009,Nepal,South Asia,1224.73,,67.12
+2009,Pakistan,South Asia,2603,,66.84
+2009,Sri Lanka,South Asia,4254.13,,74.24
+2009,Algeria,Middle East & North Africa,6207.17,,72.67
+2009,Bahrain,Middle East & North Africa,24226.51,,75.88
+2009,Djibouti,Middle East & North Africa,2176.79,,55.78
+2009,Iraq,Middle East & North Africa,3518.18,,68.1
+2009,Israel,Middle East & North Africa,25463.69,,81
+2009,Jordan,Middle East & North Africa,5109.39,,72.88
+2009,Kuwait,Middle East & North Africa,42443.53,,77.79
+2009,Lebanon,Middle East & North Africa,12766.21,,72.26
+2009,Libya,Middle East & North Africa,12051.62,,74.28
+2009,Morocco,Middle East & North Africa,4162.93,,71.58
+2009,Oman,Middle East & North Africa,22804.85,,75.94
+2009,Qatar,Middle East & North Africa,74138.28,,75.81
+2009,Saudi Arabia,Middle East & North Africa,21138.18,,73.1
+2009,Tunisia,Middle East & North Africa,7499.61,,74.15
+2009,United Arab Emirates,Middle East & North Africa,33734.94,,77.58
+2009,West Bank and Gaza,Middle East & North Africa,,,73.74
+2009,"Yemen, Rep.",Middle East & North Africa,2313.16,,63.39
+2009,Argentina,America,13498.04,,75.52
+2009,Aruba,America,,,74.92
+2009,Barbados,America,15846.77,,77.51
+2009,Belize,America,6998.08,,76.6
+2009,Bolivia,America,4007.16,,66.01
+2009,Brazil,America,9569.78,,72.68
+2009,Canada,America,34569.63,,80.89
+2009,Chile,America,13087.38,,78.67
+2009,Colombia,America,7090.69,,73.19
+2009,Costa Rica,America,9551.56,,78.98
+2009,Cuba,America,,,78.84
+2009,Ecuador,America,7035.45,,75.26
+2009,El Salvador,America,5646.85,,71.74
+2009,French Guiana,America,,,76.16
+2009,Grenada,America,8826.9,,75.62
+2009,Guadeloupe,America,,,79.28
+2009,Guatemala,America,5163.22,,70.55
+2009,Guyana,America,3776.95,,67.43
+2009,Haiti,America,1198.05,,61.48
+2009,Honduras,America,3473.46,,72.41
+2009,Jamaica,America,7023.74,,72.11
+2009,Martinique,America,,,79.77
+2009,Mexico,America,11250.37,,76.47
+2009,Netherlands Antilles,America,,,76.38
+2009,Nicaragua,America,2591.39,,73.44
+2009,Panama,America,10796.68,,75.81
+2009,Paraguay,America,4054.3,,72.07
+2009,Peru,America,7858.97,,73.47
+2009,Puerto Rico,America,,,78.95
+2009,Suriname,America,8199.03,,69.16
+2009,Trinidad and Tobago,America,17826.05,,69.7
+2009,United States,America,41256.08,,79.43
+2009,Uruguay,America,11461.03,,76.5
+2009,Albania,Europe & Central Asia,6546.27,,76.74
+2009,Armenia,Europe & Central Asia,4523.44,,74.03
+2009,Austria,Europe & Central Asia,35636.42,,80.23
+2009,Azerbaijan,Europe & Central Asia,9088.42,,70.6
+2009,Belarus,Europe & Central Asia,11574.43,,69.4
+2009,Belgium,Europe & Central Asia,32256.64,,80.05
+2009,Bosnia and Herzegovina,Europe & Central Asia,7341.98,,75.34
+2009,Bulgaria,Europe & Central Asia,10840.26,,73.53
+2009,Croatia,Europe & Central Asia,14110.46,,76.49
+2009,Cyprus,Europe & Central Asia,25643.45,,79.85
+2009,Denmark,Europe & Central Asia,32670.06,,78.57
+2009,Estonia,Europe & Central Asia,16349.13,,73.5
+2009,Finland,Europe & Central Asia,30602.73,,79.9
+2009,France,Europe & Central Asia,29774.85,,81.47
+2009,Georgia,Europe & Central Asia,4168.7,,71.86
+2009,Germany,Europe & Central Asia,31191.15,,80.08
+2009,Greece,Europe & Central Asia,27626.11,,79.5
+2009,Hungary,Europe & Central Asia,16982.8,,73.67
+2009,Iceland,Europe & Central Asia,34989.73,,81.95
+2009,Ireland,Europe & Central Asia,35692.95,,80.16
+2009,Italy,Europe & Central Asia,26160.59,,81.34
+2009,Kazakhstan,Europe & Central Asia,10612.29,,65.18
+2009,Latvia,Europe & Central Asia,13021.94,,72.77
+2009,Lithuania,Europe & Central Asia,14928.78,,71.93
+2009,Luxembourg,Europe & Central Asia,70857.46,,79.75
+2009,"Macedonia, FYR",Europe & Central Asia,8364.79,,74.4
+2009,Malta,Europe & Central Asia,21327.85,,79.91
+2009,Moldova,Europe & Central Asia,2593.42,,68.72
+2009,Montenegro,Europe & Central Asia,,672180,74.34
+2009,Netherlands,Europe & Central Asia,36074.53,,80.19
+2009,Norway,Europe & Central Asia,47915,,80.85
+2009,Poland,Europe & Central Asia,16465.8,,75.84
+2009,Portugal,Europe & Central Asia,19898.43,,78.94
+2009,Romania,Europe & Central Asia,10868.12,,72.99
+2009,Serbia,Europe & Central Asia,10005.22,10166507,74.23
+2009,Slovak Republic,Europe & Central Asia,19186.01,,74.94
+2009,Slovenia,Europe & Central Asia,24778.21,,78.63
+2009,Spain,Europe & Central Asia,26811.93,,81.11
+2009,Sweden,Europe & Central Asia,32021,,81.12
+2009,Switzerland,Europe & Central Asia,38003.92,,82.06
+2009,Tajikistan,Europe & Central Asia,1775.38,,67.07
+2009,Turkey,Europe & Central Asia,8040.78,,72.06
+2009,Turkmenistan,Europe & Central Asia,5702.66,,65.06
+2009,Ukraine,Europe & Central Asia,5730.86,,68.45
+2009,United Kingdom,Europe & Central Asia,31042.47,,79.64
+2009,Uzbekistan,Europe & Central Asia,2586.96,,67.97
+2009,Australia,East Asia & Pacific,34327.26,,81.71
+2009,Brunei,East Asia & Pacific,44738.99,,77.32
+2009,Cambodia,East Asia & Pacific,1830.97,,61.67
+2009,China,East Asia & Pacific,7226.07,,73.28
+2009,Fiji,East Asia & Pacific,4016.2,,69.05
+2009,French Polynesia,East Asia & Pacific,,,74.59
+2009,"Hong Kong, China",East Asia & Pacific,39086.39,,82.4
+2009,Indonesia,East Asia & Pacific,3818.08,,71.17
+2009,Japan,East Asia & Pacific,29680.68,,82.98
+2009,"Korea, Dem. Rep.",East Asia & Pacific,1635,,67.53
+2009,"Korea, Rep.",East Asia & Pacific,23875,,79.65
+2009,"Macao, China",East Asia & Pacific,,,80.95
+2009,Malaysia,East Asia & Pacific,12387.67,,74.54
+2009,"Micronesia, Fed. Sts.",East Asia & Pacific,,,68.81
+2009,Mongolia,East Asia & Pacific,3205.17,,66.93
+2009,Myanmar,East Asia & Pacific,1269.14,,62.14
+2009,New Caledonia,East Asia & Pacific,,,76.36
+2009,New Zealand,East Asia & Pacific,24009.46,,80.45
+2009,Papua New Guinea,East Asia & Pacific,1947.16,,61.29
+2009,Philippines,East Asia & Pacific,3203.97,,72.1
+2009,Samoa,East Asia & Pacific,5003.61,,71.92
+2009,Singapore,East Asia & Pacific,43526.04,,80.58
+2009,Solomon Islands,East Asia & Pacific,1903.69,,66.66
+2009,Taiwan,East Asia & Pacific,28361,,78.6
+2009,Thailand,East Asia & Pacific,7376.17,,69.08
+2009,Timor-Leste,East Asia & Pacific,2475.68,1130120,61.6
+2009,Tokelau,East Asia & Pacific,,,
+2009,Tonga,East Asia & Pacific,5104.06,,71.96
+2009,Vietnam,East Asia & Pacific,2679.34,,74.7
+2009,Vanuatu,East Asia & Pacific,3943.3,,70.5
